@@ -2,7 +2,6 @@ package com.tnewcomb.codewars.kyu7;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-import org.junit.runners.JUnit4;
 
 
 /**
